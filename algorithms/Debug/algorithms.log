@@ -1,0 +1,13 @@
+﻿  algor.cpp
+C:\Users\glyn\source\repos\algorithms\algorithms\algor.cpp(52,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\glyn\source\repos\algorithms\algorithms\algor.cpp(68,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\glyn\source\repos\algorithms\algorithms\algor.cpp(72,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\glyn\source\repos\algorithms\algorithms\algor.cpp(91,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\glyn\source\repos\algorithms\algorithms\algor.cpp(95,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\glyn\source\repos\algorithms\algorithms\algor.cpp(119,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\glyn\source\repos\algorithms\algorithms\algor.cpp(163,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\glyn\source\repos\algorithms\algorithms\algor.cpp(167,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\glyn\source\repos\algorithms\algorithms\algor.cpp(213,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\glyn\source\repos\algorithms\algorithms\algor.cpp(217,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\glyn\source\repos\algorithms\algorithms\algor.cpp(249,21): warning C4018: '<': signed/unsigned mismatch
+  algorithms.vcxproj -> C:\Users\glyn\source\repos\algorithms\Debug\algorithms.exe
